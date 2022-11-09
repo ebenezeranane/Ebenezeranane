@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **vue,flutter,php,python,dart,laravel,javascript,node .js**
 
-- 📫 How to reach me **ebenezeranan110@gmail.com**
+- 📫 How to reach me **owurayaw@gmail.com**
 
 - ⚡ Fun fact **Machines are just dumb without a zero and one**
 
