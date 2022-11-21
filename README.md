@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Owura Justice</h1>
+<h1 align="center">Hi 👋, I'm Ebenezer Anane Wiredu</h1>
 <h3 align="center">A passionate  mobile and web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezeranane&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezeranane" /> </p>
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **vue,flutter,php,python,dart,laravel,javascript,node .js**
 
-- 📫 How to reach me **owurayaw@gmail.com**
+- 📫 How to reach me **ebenezeranane110@gmail.com**
 
 - ⚡ Fun fact **Machines are just dumb without a zero and one**
 
