@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ebenezeranane110@gmail.com**
 
-- ⚡ Fun fact **Machines are just dumb without a zero and one**
+- ⚡ Fun fact **Machines are just dumb without a zero and one **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
