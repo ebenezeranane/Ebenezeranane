@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Machines are just dumb without a zero and one **
 
-### Blogs posts
+### Blogs posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
