@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Building Mobile Apps with Flutter](https://github.com/Ebenezeranane/flutter_tdd_clean_arch)
 
-- 🌱 I’m currently learning **TDD Clean Architecture with Flutter**
+- 🌱 I’m currently learning **TDD Clean Architecture with Flutter **
 
 - 👯 I’m looking to collaborate on **Open Source**
 
